@@ -1,0 +1,3 @@
+#!/bin/bash
+0-current_working_directory  README.md
+chmod u+x 1-listit
