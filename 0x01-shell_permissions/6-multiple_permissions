@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod 100 100 400 hello
