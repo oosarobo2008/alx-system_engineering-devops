@@ -1,0 +1,40 @@
+My readme file
+0-current_working_directory: print the absolute path of the current directory
+
+100-lets_move:               move all files beginning with uppercase
+
+101-clean_emacs:             delete all files in the current direct
+
+102-tree:                    text/plain
+
+103-commas:                  text/plain
+
+10-back:                     text/plain
+
+11-lists:                    text/plain
+
+12-file_type:                text/plain
+
+13-symbolic_link:            text/plain
+
+14-copy_html:                text/plain
+
+1-listit:                    text/plain
+
+2-bring_me_home:             text/plain
+
+3-listfiles:                 text/plain
+
+4-listmorefiles:             text/plain
+
+5-listfilesdigitonly:        text/plain
+
+6-firstdirectory:            text/plain
+
+7-movethatfile:              text/plain
+
+8-firstdelete:               text/plain
+
+9-firstdirdeletion:          text/plain
+
+school.mgc:                application/octet-stream
